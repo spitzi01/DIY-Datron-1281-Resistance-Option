@@ -1,7 +1,7 @@
 # DIY-Datron-1281-Resistance-Option
 Add resistance measurement capabilities to your Datron 1281
 
-I bought a defective Datron 1281. Sadly there was no option installed. So replicated the current measurement board as closely as I could. Most of the parts are still avaiable. The CLA3106 ASIC can be replaced with my CPLD replacement. The only problems are the JFETs for switching the low current ranges and the shunt resistors. The original JFETs were replaced with similar off-the-shelf ones. The shunt resistors are the most expensive part of this project, but there is no real other choice than Vishay foil resistors. Some resistors are custom ordered from Texas Components. The PCB features full mechanical compatibility to the original board and all guard traces.
+I also replicated the resistance measurement board as closely as I could. This was a lot harder than the current board. Most of the parts are still avaiable. The CLA3106 ASIC can be replaced with my CPLD replacement. For other unavaiable components I tried to find alternatives. The precision resistors are the most expensive part of this project, but there is no real other choice than Vishay foil resistors and there are quite a few. There are also two resistance standards on this PCB. These are importeant for the selftest and the selfcal capability of this meter. For this purpose I ordered VHP resistors. The resistors for the current ranges are mostly custom ordered from Texas Components. The PCB features full mechanical compatibility to the original board and all guard traces.
 
 ![DIY Resistance Option in Datron 1281](PCB.png)
 
