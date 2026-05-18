@@ -7,4 +7,4 @@ I bought a defective Datron 1281. Sadly there was no option installed. So replic
 
 A full characterization of the resistance option was not possible due to not having access the known standard resistors. I did a comparative measurement in the 10kOhm range with a short against my Solartron 7081. The noise is definitly comparable to the Solartron meter. At the moment I will see this as a win until I am able to perform better measurements.
 
-![Noise and stability of the 10kOhm range](Measurements/Datron vs. Solartron 0Ohm.png)
+![Noise and stability of the 10kOhm range](0Ohm.png)
