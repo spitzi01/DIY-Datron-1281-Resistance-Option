@@ -1,0 +1,4 @@
+10kOhm-Range
+    Noise:  3,3mOhm pk2pk, 0,66mOhm rms (Datron 1281)
+    Noise:  2,6mOhm pk2pk, 0,54mOhm rms (Solartron 7081)
+
