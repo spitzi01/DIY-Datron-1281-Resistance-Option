@@ -1,0 +1,262 @@
+(footprint "HDRV6W64P0X254_1X6_1524X580X1205P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "22-29-2061")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "96a3f7ec-7d0c-44dd-a354-8f57887aa8eb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "22-29-2061"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f4c9331c-f0eb-4869-ad4a-b60b479a426f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/22-29-2061.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65c39904-7977-43b5-adc1-75b9ab999dde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Molex KK Series, Series Number 6410, 2.54mm Pitch 6 Way 1 Row Straight PCB Header, Solder Termination, 4A"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d1ca603-8ff0-4010-add4-c544ba6dcd97")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "12.05"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63e8f95d-33b6-42a1-b647-ee952d1838b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "538-22-29-2061"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b35a62c6-4f84-4296-96ca-bca335d75982")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/22-29-2061?qs=5gBG3L055oONbgw1%2FLG%2Fsg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13dd49be-b590-483f-b1cf-81da40ba4892")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77ca115e-ad37-422b-91ac-22a0ab7f2cb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "22-29-2061"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86d55b48-a6db-4643-906f-b44d51af3682")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_line
+		(start -14.22 -3.15)
+		(end 1.52 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d2563a05-eba6-4164-a9a0-db3987e52e05")
+	)
+	(fp_line
+		(start -14.22 3.15)
+		(end -14.22 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "676b1ad8-f631-4217-9c1c-defae68b3c43")
+	)
+	(fp_line
+		(start 1.52 -3.15)
+		(end 1.52 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f630633-eb90-491e-b6b9-352c62405437")
+	)
+	(fp_line
+		(start 1.52 3.15)
+		(end -14.22 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67a8a159-4521-4a2e-8726-7ae0cf6f20a8")
+	)
+	(fp_line
+		(start -13.97 -2.9)
+		(end 1.27 -2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "42995084-2282-46fa-b722-b9a7c12388f3")
+	)
+	(fp_line
+		(start -13.97 2.9)
+		(end -13.97 -2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ada8829e-728d-4b10-b2bd-a9865523a465")
+	)
+	(fp_line
+		(start 1.27 -2.9)
+		(end 1.27 2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "afabcb4a-fc6e-4137-af7c-18b547fdd519")
+	)
+	(fp_line
+		(start 1.27 2.9)
+		(end -13.97 2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1536e502-c93b-461e-b5d1-0977e4ca774d")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "faa77b39-22a5-41e6-aa39-d25b44c1a12c")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "36e0e227-6230-4ebb-8a0f-4f302dcbc006")
+	)
+	(pad "3" thru_hole circle
+		(at -5.08 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ee87017-2726-408d-9565-48838d7aa5a3")
+	)
+	(pad "4" thru_hole circle
+		(at -7.62 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0517a84f-5fcb-4067-bd1b-964a49d2e0f0")
+	)
+	(pad "5" thru_hole circle
+		(at -10.16 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "443aff3d-ccb7-45e2-a07f-f9bb24cf7947")
+	)
+	(pad "6" thru_hole circle
+		(at -12.7 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "02f25724-b786-4e72-bfae-eac59abf0095")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM}/SamacSys_Parts.3dshapes\\22-29-2061.stp"
+		(offset
+			(xyz -6.349999809 0 1.580000019)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

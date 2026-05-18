@@ -1,0 +1,97 @@
+(footprint "R_Box_L11.1mm_W4.7mm_P3.81mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "Resistor Box series Radial pin pitch 3.81mm 2W length 11.1mm width 4.7mm")
+	(property "Reference" "REF**"
+		(at 0 -3.4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "77a490a0-9570-453d-99b0-04e0bbe41e8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "100k"
+		(at 0 3.7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45ebde54-d87a-488f-a601-51761b23e100")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b2913ce-1e04-46bc-a051-7aa636f8eee8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dad701ec-07ff-41be-82f7-9062009dd731")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_rect
+		(start -5.9 -2.7)
+		(end 5.9 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "16103e82-a8e9-4643-ace9-a83c798cf087")
+	)
+	(fp_rect
+		(start -5.55 -2.35)
+		(end 5.55 2.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fd3cb6cd-d499-43af-b8c3-5e7ccd42d232")
+	)
+	(pad "1" thru_hole circle
+		(at -1.9 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2b2f4256-93bd-4b56-a141-ad8e81314881")
+	)
+	(pad "2" thru_hole circle
+		(at 1.9 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d48accf1-fc10-497b-9565-f9f6dd994b98")
+	)
+	(embedded_fonts no)
+)

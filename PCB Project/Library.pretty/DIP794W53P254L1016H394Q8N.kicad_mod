@@ -1,0 +1,288 @@
+(footprint "DIP794W53P254L1016H394Q8N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "N8_3")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "16428aa1-de15-4c7e-8b7b-d9cfbb28d849")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "LTC1052CN8"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fb39f6c8-f4b6-4cb8-8caf-7c4d4c00fa23")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00091267.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00db05a3-0378-41c7-871f-389890a34ac2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "LINEAR TECHNOLOGY - LTC1052CN8#PBF - Operational Amplifier, Single, 1 Amplifier, 1.2 MHz, 4 V/?s, 4.75V to 16V, DIP, 8 Pins"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2729dfa7-f097-4910-8536-ab19e5c1554a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "3.937"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee5d2a88-26be-4d62-9964-68a4d7f202b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "584-LTC1052CN8#PBF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e2e1807-95bb-4257-9e02-65f06f8b3fa2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC1052CN8PBF?qs=hVkxg5c3xu%2FTcMa5Dayxnw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "079992e8-0793-44aa-a32d-005390f79558")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Analog Devices"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b067d9d-59eb-4288-9b6f-b4aaff514a47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "LTC1052CN8#PBF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f7dfd74-6f8c-4537-8571-edc750126486")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_line
+		(start -4.944 -5.33)
+		(end 4.944 -5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "729f9d78-03e1-4531-9106-5af3be071ab6")
+	)
+	(fp_line
+		(start -4.944 5.33)
+		(end -4.944 -5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a936187d-08d0-4853-9610-b4d9c57536f4")
+	)
+	(fp_line
+		(start 4.944 -5.33)
+		(end 4.944 5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "89c34a1f-9e81-4002-9599-65424a848959")
+	)
+	(fp_line
+		(start 4.944 5.33)
+		(end -4.944 5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dcf94df5-ba9f-4656-a388-a8724decc2cb")
+	)
+	(fp_line
+		(start -3.429 -5.08)
+		(end 3.429 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0e76528-8510-40cc-82c9-265adca38a14")
+	)
+	(fp_line
+		(start -3.429 -3.81)
+		(end -2.159 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2364d6cb-f6ca-40b8-b364-cf10426e359e")
+	)
+	(fp_line
+		(start -3.429 5.08)
+		(end -3.429 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8ee768c-bdb5-41a7-8444-1d805267c31c")
+	)
+	(fp_line
+		(start 3.429 -5.08)
+		(end 3.429 5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c86dff59-8703-480f-a389-df5256358d79")
+	)
+	(fp_line
+		(start 3.429 5.08)
+		(end -3.429 5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c6adda56-cd36-430c-aed0-02e45231695f")
+	)
+	(pad "1" thru_hole rect
+		(at -3.969 -3.81)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1fb331f8-0638-4813-990c-8a0f301e0658")
+	)
+	(pad "2" thru_hole circle
+		(at -3.969 -1.27)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9cb7d060-a128-4b8a-bfac-b3f8d24d02ee")
+	)
+	(pad "3" thru_hole circle
+		(at -3.969 1.27)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f6105f94-fa5e-4da7-802b-1adbf1fc0137")
+	)
+	(pad "4" thru_hole circle
+		(at -3.969 3.81)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "35dd673e-cea1-4881-a648-0b3cc8547bfb")
+	)
+	(pad "5" thru_hole circle
+		(at 3.969 3.81)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ef09a59-4705-40a5-97b9-c3e3837bded4")
+	)
+	(pad "6" thru_hole circle
+		(at 3.969 1.27)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fb4d45b-37b1-4695-8e25-8216cfbb1d32")
+	)
+	(pad "7" thru_hole circle
+		(at 3.969 -1.27)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4ce16c1d-1535-470f-8136-e4f2d07adfe8")
+	)
+	(pad "8" thru_hole circle
+		(at 3.969 -3.81)
+		(size 1.133 1.133)
+		(drill 0.733)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ddc2340-3b1f-4067-999d-51ec6e9fb570")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM}/SamacSys_Parts.3dshapes\\LTC1052CN8#PBF.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
