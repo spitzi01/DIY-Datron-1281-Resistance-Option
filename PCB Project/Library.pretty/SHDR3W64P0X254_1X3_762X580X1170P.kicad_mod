@@ -1,0 +1,238 @@
+(footprint "SHDR3W64P0X254_1X3_762X580X1170P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "22-29-2031")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "22b1b25d-33b1-4df1-906e-09765acc5147")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "22-29-2031"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7d22ae5e-cd2f-4e3d-b9c9-90ba2cf0ca87")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.molex.com/pdm_docs/sd/022292031_sd.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85827909-75ff-4314-9d4a-67fc7b2af2eb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "MOLEX - 22-29-2031 - WIRE TO BOARD CONN, HEADER, 3POS, 2.54MM"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d852d12a-fb75-4b5a-89d8-516b257d72d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "11.7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "842bbd02-105f-4919-8f4d-f3a31c4cd11e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "538-22-29-2031"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ff68b34-2e76-4962-b711-06e902d2ccfb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/22-29-2031?qs=KC2ywxza1kqBAa4mtKgNzg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3698e9ee-4e67-4e13-a73e-90f1e7bdf136")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "072c90c8-ee33-4e99-8f6b-a7d73a0faa7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "22-29-2031"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5bf97bdf-f5f8-489b-8688-dffcac7db148")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_line
+		(start -6.6 -3.13)
+		(end 1.52 -3.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1eeb58c5-fe3f-41d8-aea9-92a143b2d7ac")
+	)
+	(fp_line
+		(start -6.6 3.17)
+		(end -6.6 -3.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74f00c52-e484-4269-8aa5-d445d299ff0c")
+	)
+	(fp_line
+		(start 1.52 -3.13)
+		(end 1.52 3.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7575601-7450-4fad-b03e-0469d3da1e30")
+	)
+	(fp_line
+		(start 1.52 3.17)
+		(end -6.6 3.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "910d4fc5-d085-46f0-9398-427b14959d7b")
+	)
+	(fp_line
+		(start -6.35 -2.88)
+		(end 1.27 -2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "89de212f-305f-49d6-874f-5a81570f3c82")
+	)
+	(fp_line
+		(start -6.35 2.92)
+		(end -6.35 -2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "587abe05-41d7-45b6-af91-b1c422c62c3e")
+	)
+	(fp_line
+		(start 1.27 -2.88)
+		(end 1.27 2.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "edb1c9e4-be34-481e-adf2-043e319b396c")
+	)
+	(fp_line
+		(start 1.27 2.92)
+		(end -6.35 2.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ab2f0f4-53b6-4a55-a7d6-ae8c59f3d6f7")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f6d5bdf6-6ec3-4671-9c37-7409981cf656")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "048c3511-253d-4d3a-8d8d-d13d4f37f530")
+	)
+	(pad "3" thru_hole circle
+		(at -5.08 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f588e289-04d9-4d5f-884f-38824f7e1fbc")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM}/SamacSys_Parts.3dshapes\\22-29-2031.stp"
+		(offset
+			(xyz -2.539999924 -0.01999999925 1.580000019)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

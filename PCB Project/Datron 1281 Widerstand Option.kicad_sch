@@ -1,0 +1,758 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "51838bd1-5b9e-47a6-b4cc-e1764e4adca9")
+	(paper "A3")
+	(title_block
+		(title "Datron 1281 Widerstand Option")
+		(date "2025-11-27")
+		(rev "1")
+		(company "Lucas Spitzkopf")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 266.7 200.66) (xy 266.7 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01322cb5-24e2-4c2f-8157-2f2de61b8628")
+	)
+	(wire
+		(pts
+			(xy 199.39 182.88) (xy 248.92 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09ef0c27-df53-4bd5-a542-52607869a812")
+	)
+	(wire
+		(pts
+			(xy 199.39 187.96) (xy 254 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bd5a714-8930-4ea3-a971-2b20ca17755d")
+	)
+	(wire
+		(pts
+			(xy 199.39 190.5) (xy 256.54 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2305ca5a-e35d-4bab-a1ee-a41d1ccfa519")
+	)
+	(wire
+		(pts
+			(xy 199.39 185.42) (xy 251.46 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2597b0fa-e09c-4b05-99b3-8e1b89a3bb67")
+	)
+	(wire
+		(pts
+			(xy 199.39 200.66) (xy 266.7 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a6e1830-017b-451e-a103-e2d558b69233")
+	)
+	(wire
+		(pts
+			(xy 269.24 203.2) (xy 269.24 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42ce518d-0e82-4046-9b95-ce9b86335c2f")
+	)
+	(wire
+		(pts
+			(xy 199.39 168.91) (xy 234.95 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55a24a1b-802a-4ef2-94f2-5b8973097f14")
+	)
+	(wire
+		(pts
+			(xy 259.08 193.04) (xy 259.08 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c9641c5-1dc4-4337-861b-c86fcb6af409")
+	)
+	(wire
+		(pts
+			(xy 199.39 203.2) (xy 269.24 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72f085ec-3588-4ff5-b3a8-200dfba3c1ac")
+	)
+	(wire
+		(pts
+			(xy 240.03 173.99) (xy 240.03 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "741e16b6-cd48-40f8-bcf1-367bb53686e3")
+	)
+	(wire
+		(pts
+			(xy 199.39 195.58) (xy 261.62 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79ef1c7e-9c4d-488c-8239-a8551413d3d4")
+	)
+	(wire
+		(pts
+			(xy 199.39 173.99) (xy 240.03 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "852f54d8-b99e-4621-8b24-2f3f1d78d611")
+	)
+	(wire
+		(pts
+			(xy 251.46 185.42) (xy 251.46 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9480b915-6e8a-44a8-827e-f97b1cf8d3ad")
+	)
+	(wire
+		(pts
+			(xy 199.39 198.12) (xy 264.16 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b50f7b9-7ec9-47f3-9ade-3aae3efeb0fa")
+	)
+	(wire
+		(pts
+			(xy 234.95 168.91) (xy 234.95 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa41cd3a-312d-4507-8a1a-949732837b24")
+	)
+	(wire
+		(pts
+			(xy 254 187.96) (xy 254 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa9d266d-aa55-4d37-bf59-e4a0a9982c70")
+	)
+	(wire
+		(pts
+			(xy 177.8 151.13) (xy 177.8 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b04c9a44-ca22-4d75-b1ee-a01a7692c923")
+	)
+	(wire
+		(pts
+			(xy 256.54 190.5) (xy 256.54 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9f0ca5f-8613-43bb-8e12-7a035d468652")
+	)
+	(wire
+		(pts
+			(xy 242.57 176.53) (xy 242.57 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb969fb4-621b-4c27-b415-a3bc5751ea9b")
+	)
+	(wire
+		(pts
+			(xy 199.39 176.53) (xy 242.57 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd3a976-f37d-4f06-882a-fc161d71e90d")
+	)
+	(wire
+		(pts
+			(xy 248.92 182.88) (xy 248.92 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c23fc371-3e03-466a-a1a3-055a35e539e9")
+	)
+	(wire
+		(pts
+			(xy 199.39 193.04) (xy 259.08 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd59ea27-098b-4a73-9887-0ebd68520a52")
+	)
+	(wire
+		(pts
+			(xy 264.16 198.12) (xy 264.16 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd0ef5a5-567e-4aea-a6ed-7de683a804ad")
+	)
+	(wire
+		(pts
+			(xy 199.39 134.62) (xy 229.87 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e48f6e08-0cea-4fb8-8dec-386455727869")
+	)
+	(wire
+		(pts
+			(xy 261.62 195.58) (xy 261.62 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f84e5cef-3fe4-4878-a215-d4734762375d")
+	)
+	(wire
+		(pts
+			(xy 199.39 129.54) (xy 229.87 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa02e032-66af-4160-b9e8-a63830a74cea")
+	)
+	(wire
+		(pts
+			(xy 199.39 124.46) (xy 229.87 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa8d1887-772a-4286-bd47-9a5271dbc9a3")
+	)
+	(sheet
+		(at 229.87 109.22)
+		(size 41.91 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "90cfaf68-edd0-42ef-ae2f-5ca7456f12a9")
+		(property "Sheetname" "Control Logic"
+			(at 229.87 108.5084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Control Logic.kicad_sch"
+			(at 229.87 151.7146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAL" output
+			(at 229.87 124.46 180)
+			(uuid "45db853f-33b5-4091-bda2-47903f8e2287")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Clamp" output
+			(at 229.87 129.54 180)
+			(uuid "a07e4d0d-a846-40ac-bd2b-00da31d29add")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OSC" output
+			(at 234.95 151.13 270)
+			(uuid "ca684866-a119-4f5c-b112-c1ce3ca52eb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R0" output
+			(at 248.92 151.13 270)
+			(uuid "96ec5e95-bcda-476f-954a-16ec1f584953")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R1" output
+			(at 251.46 151.13 270)
+			(uuid "e7586d9c-32c5-4bf5-82bd-be77c2555e41")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R2" output
+			(at 254 151.13 270)
+			(uuid "3adb73b6-cad5-4912-aa37-51fffab2c40d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R3" output
+			(at 256.54 151.13 270)
+			(uuid "48a763bf-c4c6-4371-9bde-4497402e3626")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R4" output
+			(at 259.08 151.13 270)
+			(uuid "edd25cf6-3a09-44f5-a44f-f394c1861608")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R5" output
+			(at 264.16 151.13 270)
+			(uuid "0856b0fc-be79-4ec4-839e-6dc4ea404c21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R7" output
+			(at 266.7 151.13 270)
+			(uuid "ed09b6be-206c-4eaa-8ad8-a328f89db8fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R8" output
+			(at 269.24 151.13 270)
+			(uuid "3d45945e-46c8-4e0a-aed2-e471e0fa6ef3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{slash}R4" output
+			(at 261.62 151.13 270)
+			(uuid "0e32c875-7e85-42f7-819b-78f6506a5541")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "REF+" output
+			(at 240.03 151.13 270)
+			(uuid "330f670c-847b-4245-be76-e07e751ff90c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "REF-" output
+			(at 242.57 151.13 270)
+			(uuid "8d56580c-3b9f-4898-aa98-83257816c2f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Filter" output
+			(at 229.87 134.62 180)
+			(uuid "8d562b2c-3d43-4310-b210-441e0b0c2a77")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Datron 1281 Widerstand Option"
+				(path "/51838bd1-5b9e-47a6-b4cc-e1764e4adca9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 109.22)
+		(size 41.91 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c2cba78c-1532-4154-9ceb-39800310f7dc")
+		(property "Sheetname" "Low Follower"
+			(at 157.48 108.5084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Low Follower.kicad_sch"
+			(at 157.48 151.7146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAL" input
+			(at 199.39 124.46 0)
+			(uuid "f300bf70-725d-4b59-bca2-234e45eb7a8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Filter" input
+			(at 199.39 134.62 0)
+			(uuid "3a070c49-1895-4e0c-86d2-cff3b347dda4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Current" bidirectional
+			(at 177.8 151.13 270)
+			(uuid "a5be096d-7ddb-4118-930d-bb7fa0918dfd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Clamp" input
+			(at 199.39 129.54 0)
+			(uuid "ccceab42-26d3-49da-9cc9-81359298ea0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Datron 1281 Widerstand Option"
+				(path "/51838bd1-5b9e-47a6-b4cc-e1764e4adca9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 163.83)
+		(size 41.91 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fdcd9bff-65dd-4a16-ab49-776a36403a81")
+		(property "Sheetname" "Constant Current Sink"
+			(at 157.48 163.1184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Constant Current Sink.kicad_sch"
+			(at 157.48 206.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Current" bidirectional
+			(at 177.8 163.83 90)
+			(uuid "664a416e-8426-448b-b2a5-714be9a03b82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OSC" input
+			(at 199.39 168.91 0)
+			(uuid "45c83bff-e825-4767-a777-a4672a2ff6f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R0" input
+			(at 199.39 182.88 0)
+			(uuid "d7c88e4a-dfed-43e6-a200-215ff0e565c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R8" input
+			(at 199.39 203.2 0)
+			(uuid "0e865966-f6da-4696-b5c7-b3889333ce03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R7" input
+			(at 199.39 200.66 0)
+			(uuid "8b04e322-452a-47fa-b6d7-2cbf2b8e5095")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R5" input
+			(at 199.39 198.12 0)
+			(uuid "636bdae3-261e-4f5b-b519-9c65cb383add")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{slash}R4" input
+			(at 199.39 195.58 0)
+			(uuid "3ea190e0-688f-4f2f-9484-ae5ff7e9f24d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R4" input
+			(at 199.39 193.04 0)
+			(uuid "cce70321-4316-4a55-96dd-f21a001f476a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R3" input
+			(at 199.39 190.5 0)
+			(uuid "e7482b90-31c1-4c0d-b4e2-0c8e1e35209a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R2" input
+			(at 199.39 187.96 0)
+			(uuid "cc94bc47-4345-4c47-94e5-18ae73a03824")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R1" input
+			(at 199.39 185.42 0)
+			(uuid "933b0d90-6790-457a-b03f-2d105fccd631")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "REF-" input
+			(at 199.39 176.53 0)
+			(uuid "c6670563-e86d-460e-9f27-dd7beace26a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "REF+" input
+			(at 199.39 173.99 0)
+			(uuid "8611d0a1-db35-406e-9ccc-203a038259eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Datron 1281 Widerstand Option"
+				(path "/51838bd1-5b9e-47a6-b4cc-e1764e4adca9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
